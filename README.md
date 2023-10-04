@@ -11,6 +11,8 @@ https://vercel.com/
 WEBアプリ URL
 https://todo-front-eight.vercel.app/
 
+期限切れの為現在バックエンドは機能しません
+
 学んだこと
 REACTからバックエンドに対してリクエストを送る具体的な実装方法
 
