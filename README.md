@@ -3,6 +3,7 @@ https://www.udemy.com/course/echo-go-react-restapi/
 
 使用技術
 React v18.2.0 
+Typescript
 
 デプロイにはvercelを用いています．
 https://vercel.com/
